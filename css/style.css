@@ -1,0 +1,15 @@
+/* Dom here, just a quick practice, I wanted a nice full viewport background, great article here: http://sixrevisions.com/css/responsive-background-image */
+
+body {
+	background-color: #87cefa;
+	font-family: 'Titillium Web', Calibri, sans-serif;
+	/*	background-image: url('/img/pexels-photo-219004.jpeg');*/
+	background: url(/img/pexels-photo-365015.jpeg) no-repeat center center fixed; 
+	background-size: cover;
+}
+
+
+
+
+
+
