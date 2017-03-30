@@ -1,11 +1,11 @@
 /* Dom here, just a quick practice, I wanted a nice full viewport background, great article here: http://sixrevisions.com/css/responsive-background-image */
 
 body {
-	background-color: #87cefa;
-	
-	/*	background-image: url('/img/pexels-photo-219004.jpeg');*/
+/*
+		background-image: url('/img/pexels-photo-219004.jpeg');
 	background: url(/img/pexels-photo-365015.jpeg) no-repeat center center fixed; 
 	background-size: cover;
+*/
 	font-family: Open Sans, Calibri, sans-serif;
 	font-weight: 300;
 }
@@ -14,10 +14,10 @@ body {
 	width: 430px;
 	margin: 0 auto;
 	padding: 100px;
-	background-color: rgba(255, 255, 255, .4)
 }
 
 h1 {
+	font-family: 'Cinzel', serif;
 	font-weight: 400;
 	font-size: 60px;
 	line-height: 55px;
@@ -34,7 +34,7 @@ h1 {
 .quote-button {
 	display: block;
 	text-decoration: none;
-	padding: 17px 0;
+	padding: 12px 0;
 	color: #373f51;
 	background-color: #d8dbe2;
 	text-transform: uppercase;
