@@ -43,7 +43,7 @@ h1 {
 }
 
 .quote-container blockquote {
-	display: block;
+	display: none;
 	padding: 40px;
 	background-color: #58a4b0;
 	color: #fff;
